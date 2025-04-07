@@ -19,7 +19,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,js,react,html,css,bootstrap,tailwind,git,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,js,nodejs,expressjs,react" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,vscode,postman,figma" />
   
 </p>
 
